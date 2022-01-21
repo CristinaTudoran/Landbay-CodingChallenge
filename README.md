@@ -1,4 +1,4 @@
-## Mortgage Allocator for Landbay - Java code challenge
+## Mortgage Allocator - Java code challenge
 
 ### The application was built using Maven.
 
